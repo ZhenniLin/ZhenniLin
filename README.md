@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on <a href="" target="_blank">**Online Ordering System**</a>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and microservices**
 
 - 📫 How to reach me **zhennilin1115@gmail.com**
 
